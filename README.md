@@ -1,6 +1,8 @@
 # JUEGO-JUEGO
 this was a 6 months secondary school proyect.
+
 the asigment was to make a game with a partner to play coop or vs on a local hosted server
+
 
 the game is a pvp experience that consist of:
 
