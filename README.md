@@ -1,5 +1,5 @@
 # JUEGO-JUEGO
-this was a 6 months secondary school proyect.
+this was a 6 months secondary school proyect made on java on eclipse IDE.
 
 the asigment was to make a game with a partner to play coop or vs on a local hosted server
 
